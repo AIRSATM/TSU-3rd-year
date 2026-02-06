@@ -1,0 +1,10 @@
+a x
+aa xy
+ba yz
+ca zx
+aaa xyz
+aba xzy
+aca xzx
+baa yzx
+bba yxy
+bca yyz
