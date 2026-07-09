@@ -1,0 +1,11 @@
+C:\Users\Пользователь\Desktop\MiniLang.CSharp\src\MiniLang\bin\Debug\net8.0\MiniLang.deps.json
+C:\Users\Пользователь\Desktop\MiniLang.CSharp\src\MiniLang\bin\Debug\net8.0\MiniLang.dll
+C:\Users\Пользователь\Desktop\MiniLang.CSharp\src\MiniLang\bin\Debug\net8.0\MiniLang.pdb
+C:\Users\Пользователь\Desktop\MiniLang.CSharp\src\MiniLang\obj\Debug\net8.0\MiniLang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\MiniLang.CSharp\src\MiniLang\obj\Debug\net8.0\MiniLang.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\MiniLang.CSharp\src\MiniLang\obj\Debug\net8.0\MiniLang.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\MiniLang.CSharp\src\MiniLang\obj\Debug\net8.0\MiniLang.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\MiniLang.CSharp\src\MiniLang\obj\Debug\net8.0\MiniLang.dll
+C:\Users\Пользователь\Desktop\MiniLang.CSharp\src\MiniLang\obj\Debug\net8.0\refint\MiniLang.dll
+C:\Users\Пользователь\Desktop\MiniLang.CSharp\src\MiniLang\obj\Debug\net8.0\MiniLang.pdb
+C:\Users\Пользователь\Desktop\MiniLang.CSharp\src\MiniLang\obj\Debug\net8.0\ref\MiniLang.dll
